@@ -9,6 +9,7 @@
 *   Familiar with GNU Make, bash
 *   JavaScript
 *   Git
+*   Django
 5.
 ```javascript
 function factorial(n) {
